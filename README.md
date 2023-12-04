@@ -44,7 +44,7 @@ All configuration is done via environment variables:
     services:
         net-mon:
             container_name: net-mon
-            image: ghcr.io/rafhaanshah/net-mon:latest
+            image: vetusto/net-mon:1.0
             restart: unless-stopped
             network_mode: host # needed for nmap to get mac addresses
             volumes:
