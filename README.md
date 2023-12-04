@@ -1,5 +1,9 @@
 # Net-Mon
 
+###########################################################################################################################
+Updated apprise to the latest version to support latest notification methods (like Ntfy)
+###########################################################################################################################
+
 Get notified for new devices on your network. This app runs [nmap](https://nmap.org/) periodically and saves found hosts, and send you a notification whenever a new device (mac-address) is found.
 
 ![](/assets/screenshot.jpg)
