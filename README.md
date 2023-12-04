@@ -35,7 +35,7 @@ All configuration is done via environment variables:
         NETMON_SUBNET=192.168.1.0/24 \
         NETMON_MINUTES=15 \
         --net=host \
-        ghcr.io/rafhaanshah/net-mon:latest
+        vetusto/net-mon:1.0
     ```
 - Docker-Compose:
     ```
